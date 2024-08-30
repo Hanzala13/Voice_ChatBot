@@ -22,8 +22,9 @@ The project demonstrates the integration of multiple technologies to create an e
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/voice-chatbot.git
+   git clone https://github.com/Hanzala13/voice_ChatBot.git
    cd voice-chatbot
+
 Install the required dependencies:
 
 bash
