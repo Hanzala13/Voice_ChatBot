@@ -20,18 +20,18 @@ The project demonstrates the integration of multiple technologies to create an e
 
 ## Installation
 
-1. **Clone the repository:**
+**Clone the repository:**
 
    `git clone https://github.com/Hanzala13/voice_ChatBot.git`
    `cd voice-chatbot`
 
-Install the required dependencies:
+**Install the required dependencies:**
 
 `pip install speechrecognition pyttsx3 pyaudio`
 
 Note: On some systems, installing pyaudio might require additional setup. Refer to the PyAudio documentation for more details.
 
-Usage
+**Usage**
 Run the script:
 
 
@@ -40,24 +40,28 @@ Click the "Start" button in the application window.
 
 Speak into your microphone. The chatbot will listen to your input, process it, and provide a spoken response.
 
-Code Overview
+## Code Overview
 1. Text-to-Speech Initialization
 The application initializes a text-to-speech engine using pyttsx3:
 
 python
 Copy code
 engine = pyttsx3.init()
+
 2. Function Definitions
 speak_text(text): Converts the provided text into speech.
 recognize_speech(): Captures user voice input using a microphone and converts it to text.
 process_response(text): Generates a simple response based on the user's input.
-3. GUI Setup
+
+4. GUI Setup
 The GUI is created using tkinter, with elements like the main window, chat frame, text box for conversation display, and a start button.
 
-4. Running the Application
+5. Running the Application
 The application runs an event loop to keep the GUI active:
 
 <img src="GUI of App.png" height="350" width="750">
+
+<img src="Chat_Response.png" height="350" width="750">
 
 python
 Copy code
@@ -66,13 +70,14 @@ Future Improvements
 Add more complex response logic and integrate with external APIs for enhanced functionality.
 Improve error handling and user feedback for speech recognition.
 Add more interactive GUI elements for better user experience.
-Contributing
+
+## Contributing
 Feel free to fork this repository, make changes, and submit pull requests. Contributions are welcome!
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+## Contact
 If you have any questions or suggestions, please feel free to contact me at hanzalaansari674@gmail.com.
 
 
