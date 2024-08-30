@@ -1,4 +1,6 @@
 # Voice_ChatBot
+<>img src="https://th.bing.com/th/id/R.e3cca23861b57421553758eca8e3ad4f?rik=OHry2Y%2b6lTxZ5g&riu=http%3a%2f%2fwww.pcbackup.it%2fwp-content%2fuploads%2f2021%2f08%2fvoicebot.jpg&ehk=BKrMeXtGbetQdgSf7r2aYQ3wtMSMuuClPSG1VMiYenI%3d&risl=&pid=ImgRaw&r=0" height='350' width-'750'>
+
 The Voice Chatbot is an interactive application that combines voice recognition and text-to-speech technologies to create a conversational experience. This chatbot listens to the user's spoken input, processes the input to determine an appropriate response, and then responds in both text and spoken formats.
 
 Built using Python, the application leverages libraries like speech_recognition for capturing and interpreting speech, pyttsx3 for generating voice responses, and tkinter for creating a user-friendly graphical interface. It provides a seamless way to interact with users through voice, making it ideal for applications like customer support, virtual assistants, or accessibility tools for users who prefer or require voice-based interaction.
