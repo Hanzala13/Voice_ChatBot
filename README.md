@@ -1,5 +1,5 @@
 # Voice_ChatBot
-<>img src="https://th.bing.com/th/id/R.e3cca23861b57421553758eca8e3ad4f?rik=OHry2Y%2b6lTxZ5g&riu=http%3a%2f%2fwww.pcbackup.it%2fwp-content%2fuploads%2f2021%2f08%2fvoicebot.jpg&ehk=BKrMeXtGbetQdgSf7r2aYQ3wtMSMuuClPSG1VMiYenI%3d&risl=&pid=ImgRaw&r=0" height='350' width-'750'>
+<img src="https://th.bing.com/th/id/R.e3cca23861b57421553758eca8e3ad4f?rik=OHry2Y%2b6lTxZ5g&riu=http%3a%2f%2fwww.pcbackup.it%2fwp-content%2fuploads%2f2021%2f08%2fvoicebot.jpg&ehk=BKrMeXtGbetQdgSf7r2aYQ3wtMSMuuClPSG1VMiYenI%3d&risl=&pid=ImgRaw&r=0" height='350' width-'750'>
 
 The Voice Chatbot is an interactive application that combines voice recognition and text-to-speech technologies to create a conversational experience. This chatbot listens to the user's spoken input, processes the input to determine an appropriate response, and then responds in both text and spoken formats.
 
