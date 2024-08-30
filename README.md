@@ -21,22 +21,20 @@ The project demonstrates the integration of multiple technologies to create an e
 ## Installation
 
 1. **Clone the repository:**
-   bash
-   Copy code
+
    `git clone https://github.com/Hanzala13/voice_ChatBot.git`
    `cd voice-chatbot`
 
 Install the required dependencies:
 
-bash
-Copy code
 `pip install speechrecognition pyttsx3 pyaudio`
+
 Note: On some systems, installing pyaudio might require additional setup. Refer to the PyAudio documentation for more details.
 
 Usage
 Run the script:
-bash
-Copy code
+
+
 `python voice_chatbot.py`
 Click the "Start" button in the application window.
 
@@ -59,7 +57,7 @@ The GUI is created using tkinter, with elements like the main window, chat frame
 4. Running the Application
 The application runs an event loop to keep the GUI active:
 
-<img src="GUI of App.png" height="750" width="350">
+<img src="GUI of App.png" height="350" width="750">
 
 python
 Copy code
