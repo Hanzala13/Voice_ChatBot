@@ -41,19 +41,19 @@ Click the "Start" button in the application window.
 Speak into your microphone. The chatbot will listen to your input, process it, and provide a spoken response.
 
 ## Code Overview
-1. Text-to-Speech Initialization
+- Text-to-Speech Initialization
 The application initializes a text-to-speech engine using pyttsx3:
 
-python
+- python
 Copy code
 engine = pyttsx3.init()
 
-2. Function Definitions
+- Function Definitions
 speak_text(text): Converts the provided text into speech.
 recognize_speech(): Captures user voice input using a microphone and converts it to text.
 process_response(text): Generates a simple response based on the user's input.
 
-4. GUI Setup
+- GUI Setup
 The GUI is created using tkinter, with elements like the main window, chat frame, text box for conversation display, and a start button.
 
 5. Running the Application
