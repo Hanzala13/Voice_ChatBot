@@ -56,7 +56,7 @@ process_response(text): Generates a simple response based on the user's input.
 - GUI Setup
 The GUI is created using tkinter, with elements like the main window, chat frame, text box for conversation display, and a start button.
 
-5. Running the Application
+- Running the Application
 The application runs an event loop to keep the GUI active:
 
 <img src="GUI of App.png" height="350" width="750">
